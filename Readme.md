@@ -64,10 +64,17 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jr-Einstein&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  
 
 
 <span style="display:block;text-align:center">
+  
+# Latest Youtube Video
+  __________________________
+  
+  [<img align="center" alt="codeSTACKr | LinkedIn" width="100px" src="https://media.discordapp.net/attachments/1074686721146507327/1115727941482057839/GITHUB_PROFILE.png?width=721&height=406" />](https://www.youtube.com/watch?v=xF3I-zaU3W4)
 
+  -----------------------------------------------
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
   
