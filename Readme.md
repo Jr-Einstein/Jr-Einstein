@@ -20,12 +20,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aman-kumar-singh04/)
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/still.aman/)
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> ](https://twitter.com/IamAmanKS)
-
+<a href="https://twitter.com/IamAmanKS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamamanks" height="20" width="20" /></a> 
+<a href="https://www.linkedin.com/in/aman-kumar-singh04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamamanks" height="20" width="20" /></a>
+<a href="https://www.instagram.com/still.aman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamamanks" height="20" width="20" /></a>
 <br />
 
 ### Languages and Tools:
@@ -68,13 +65,7 @@
 
 
 <span style="display:block;text-align:center">
-  
-# Latest Youtube Video
-  __________________________
-  
-  [<img align="center" alt="codeSTACKr | LinkedIn" width="450px" src="https://media.discordapp.net/attachments/1074686721146507327/1115727941482057839/GITHUB_PROFILE.png?width=721&height=406" target = "_blank"/>](https://www.youtube.com/watch?v=xF3I-zaU3W4)
-
-  -----------------------------------------------
+ 
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
   
