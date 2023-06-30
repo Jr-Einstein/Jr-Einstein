@@ -6,7 +6,7 @@
 
 
 
-### Hi there 👋 , I'm Aman Kumar Singh
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Aman+Kumar+Singh;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
 </span>
 
