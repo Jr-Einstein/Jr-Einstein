@@ -20,11 +20,11 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/IamAmanKS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamamanks" height="20" width="20" /> - Twitter </a> 
+<a href="https://twitter.com/MPPoliceOnline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamamanks" height="20" width="20" /> - Twitter </a> 
 
-<a href="https://www.linkedin.com/in/aman-kumar-singh04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamamanks" height="20" width="20" /> - Linkedin </a>
+<a href="https://www.linkedin.com/in/a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamamanks" height="20" width="20" /> - Linkedin </a>
 
-<a href="https://www.instagram.com/still.aman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamamanks" height="20" width="20" /> - Instagram</a>
+<a href="https://www.instagram.com/cyber_cell_india/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamamanks" height="20" width="20" /> - Instagram</a>
 <br />
 
 ### Languages and Tools:
