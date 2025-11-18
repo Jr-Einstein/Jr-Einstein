@@ -158,7 +158,7 @@ With expertise spanning **programming**, **development**, and **security researc
 <summary>🌐 Visit Me</summary>
 
 <p align="center">
-    🔗 <a href="#" target="https://www.linkedin.com/in/aman-kumar-singh04/">Connect with Me</a>
+    🔗 <a href="https://www.linkedin.com/in/aman-kumar-singh04/" target="https://www.linkedin.com/in/aman-kumar-singh04/">Connect with Me</a>
   </a>
 </p>
 
