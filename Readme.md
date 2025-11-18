@@ -155,10 +155,10 @@ With expertise spanning **programming**, **development**, and **security researc
 ---
 
 <details>
-<summary>🌐 Visit Us</summary>
+<summary>🌐 Visit Me</summary>
 
 <p align="center">
-    🔗 <a href="#" target="_blank">Connect with Me</a>
+    🔗 <a href="#" target="https://www.linkedin.com/in/aman-kumar-singh04/">Connect with Me</a>
   </a>
 </p>
 
@@ -166,6 +166,6 @@ With expertise spanning **programming**, **development**, and **security researc
 
 ---
 
-![Snake animation](https://github.com/jr-einstein/jr-einstein/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
 
 </div>
